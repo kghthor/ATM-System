@@ -4,7 +4,7 @@ import java.io.*;
 class Menus {
     public void displayWelcomeScreen() {
         ATMS.clearConsol();
-        System.out.print(
+        System.out.print( 
                       "\n\t\t" + " ****** WELCOME TO ATM! ****** " + "\n" +
                         "\t\t" + " _____________________________ " + "\n" +
                         "\t\t" + "|                             |" + "\n" +
