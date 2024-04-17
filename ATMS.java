@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Menus {
+class Menus { 
     public void displayWelcomeScreen() {
         ATMS.clearConsol();
         System.out.print( 
